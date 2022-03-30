@@ -8,5 +8,5 @@
     3. Status dos envelopes
 - Template de documentos - 13/05/2022
 - DEV React - 16/05/2022
-- Documentos vencidos - em breve
-- Compliance de documentos - em breve
+- Documentos vencidos - *em breve*
+- Compliance de documentos - *em breve*
